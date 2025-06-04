@@ -11,7 +11,7 @@ This project demonstrates a complete implementation of **Linear Regression** usi
 - Used **Mean Squared Error (MSE)** as the loss function.
 - Optimized the slope (`m`) and intercept (`c`) parameters using **gradient descent**.
 - Training initialized with random values for `m` and `c`, a learning rate of 0.01, and trained over 5000 epochs.
-- Loss is printed every 500 epochs to monitor training progress.
+- Loss is printed every 5000 epochs to monitor training progress.
 - Final regression line is plotted against the data points.
 
 ### Linear Regression Using Scikit-learn
