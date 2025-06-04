@@ -21,7 +21,6 @@ This project demonstrates a complete implementation of **Linear Regression** usi
 - Calculated and printed the MSE loss for the `scikit-learn` model.
 
 ### Comparison
-- Side-by-side comparison of parameters (slope and intercept) from both models.
 - Visual plot showing the scratch implementation’s regression line and the `scikit-learn` regression line together with the original data points.
 
 ---
